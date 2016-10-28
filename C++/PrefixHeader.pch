@@ -1,0 +1,90 @@
+//
+//  PrefixHeader.pch
+//  BMProject
+//
+//  Created by MengHuan on 15/4/19.
+//  Copyright (c) 2015年 MengHuan. All rights reserved.
+//
+
+#ifndef BMProject_PrefixHeader_pch
+#define BMProject_PrefixHeader_pch
+
+// Include any system framework and library headers here that should be included in all compilation units.
+// You will also need to set the Prefix Header build setting of one or more of your targets to reference this file.
+#ifdef __OBJC__
+// framework
+#import <UIKit/UIKit.h>
+#import <Foundation/Foundation.h>
+#import <Masonry.h>
+/*
+#import <JSONModel/JSONModelLib.h>
+
+#import <MJExtension/MJExtension.h>
+
+#import <MBProgressHUD.h>
+#import <MJRefresh.h>
+#import <Reachability.h>
+#import <SDWebImage/UIImageView+WebCache.h>
+#import <SVProgressHUD.h>
+#import <SVIndefiniteAnimatedView.h>
+#import "BaseViewController.h"
+
+#import "GetResumeInfoByIdData.h"//获取简历信息
+#import "GetProductListData.h"
+#import "GetGoodsListData.h"
+#import "GetZhanHuiListData.h"
+#import "GetZhaopinListData.h"
+#import "GetCompanyListData.h"
+#import "GetLunTanData.h"
+#import "GetMeetingListData.h"
+#import "GetZhaoPinDetailData.h"
+#import "GetGoodsDetailData.h"
+
+#import "OrderToBePaidData.h"
+#import "OrderCanceledData.h"
+#import "OrderCompletedData.h"
+#import "OrderReceivedData.h"
+//#import "UserModel.h"
+//#import "UserData.h"
+//#import "ArchiveAccessFile.h"
+
+
+//图片流
+//#import "GTMBase64.h"
+
+// viewController
+//#import "BaseViewController.h"
+//#import "BaseNaviViewController.h"
+
+// view
+#import "UIView+MHCommon.h"
+#import "UIColor+HexColor.h"
+#import "NSString+MHCommon.h"
+#import "NSString+Utils.h"
+
+//#import "UIView+AutoLayout.h"
+#import "UIImage+qdd.h"
+#import "UIView+FitAllScreen.h"
+#import "UIView+Utility.h"//
+#import "UIImageView+Utility.h"
+#import "UIViewController+Utility.h"
+
+#import "NSObject+Utility.h"
+#import "UITableView+Utility.h"
+
+
+#import "UIButton+SetImageTitle.h"
+
+#import "RoundLayerButton.h"
+#import "PadingLabel.h"/*< label 带边距 */
+/**
+ *  轮播
+ */
+//#import "CycleView.h"
+//#import "CustomPageControl.h"
+//#import "NSURL+Srings.h"
+
+#endif
+
+
+#endif

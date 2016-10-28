@@ -14,9 +14,9 @@
             buildForAnalyzing = "YES">
             <BuildableReference
                BuildableIdentifier = "primary"
-               BlueprintIdentifier = "98206F421D8E7BD900130AD4"
-               BuildableName = "C++.app"
-               BlueprintName = "C++"
+               BlueprintIdentifier = "98206F7C1D8E7C2000130AD4"
+               BuildableName = "CFile.app"
+               BlueprintName = "CFile"
                ReferencedContainer = "container:C++.xcodeproj">
             </BuildableReference>
          </BuildActionEntry>
@@ -32,9 +32,9 @@
             skipped = "NO">
             <BuildableReference
                BuildableIdentifier = "primary"
-               BlueprintIdentifier = "98206F5B1D8E7BD900130AD4"
-               BuildableName = "C++Tests.xctest"
-               BlueprintName = "C++Tests"
+               BlueprintIdentifier = "98206F911D8E7C2000130AD4"
+               BuildableName = "CFileTests.xctest"
+               BlueprintName = "CFileTests"
                ReferencedContainer = "container:C++.xcodeproj">
             </BuildableReference>
          </TestableReference>
@@ -42,9 +42,9 @@
             skipped = "NO">
             <BuildableReference
                BuildableIdentifier = "primary"
-               BlueprintIdentifier = "98206F661D8E7BD900130AD4"
-               BuildableName = "C++UITests.xctest"
-               BlueprintName = "C++UITests"
+               BlueprintIdentifier = "98206F9C1D8E7C2000130AD4"
+               BuildableName = "CFileUITests.xctest"
+               BlueprintName = "CFileUITests"
                ReferencedContainer = "container:C++.xcodeproj">
             </BuildableReference>
          </TestableReference>
@@ -52,9 +52,9 @@
       <MacroExpansion>
          <BuildableReference
             BuildableIdentifier = "primary"
-            BlueprintIdentifier = "98206F421D8E7BD900130AD4"
-            BuildableName = "C++.app"
-            BlueprintName = "C++"
+            BlueprintIdentifier = "98206F7C1D8E7C2000130AD4"
+            BuildableName = "CFile.app"
+            BlueprintName = "CFile"
             ReferencedContainer = "container:C++.xcodeproj">
          </BuildableReference>
       </MacroExpansion>
@@ -75,9 +75,9 @@
          runnableDebuggingMode = "0">
          <BuildableReference
             BuildableIdentifier = "primary"
-            BlueprintIdentifier = "98206F421D8E7BD900130AD4"
-            BuildableName = "C++.app"
-            BlueprintName = "C++"
+            BlueprintIdentifier = "98206F7C1D8E7C2000130AD4"
+            BuildableName = "CFile.app"
+            BlueprintName = "CFile"
             ReferencedContainer = "container:C++.xcodeproj">
          </BuildableReference>
       </BuildableProductRunnable>
@@ -94,9 +94,9 @@
          runnableDebuggingMode = "0">
          <BuildableReference
             BuildableIdentifier = "primary"
-            BlueprintIdentifier = "98206F421D8E7BD900130AD4"
-            BuildableName = "C++.app"
-            BlueprintName = "C++"
+            BlueprintIdentifier = "98206F7C1D8E7C2000130AD4"
+            BuildableName = "CFile.app"
+            BlueprintName = "CFile"
             ReferencedContainer = "container:C++.xcodeproj">
          </BuildableReference>
       </BuildableProductRunnable>

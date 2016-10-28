@@ -14,10 +14,10 @@
             buildForAnalyzing = "YES">
             <BuildableReference
                BuildableIdentifier = "primary"
-               BlueprintIdentifier = "98206F421D8E7BD900130AD4"
-               BuildableName = "C++.app"
-               BlueprintName = "C++"
-               ReferencedContainer = "container:C++.xcodeproj">
+               BlueprintIdentifier = "983DE0BA1D923BEE0005888D"
+               BuildableName = "libStaticLiabrary.a"
+               BlueprintName = "StaticLiabrary"
+               ReferencedContainer = "container:StaticLiabrary.xcodeproj">
             </BuildableReference>
          </BuildActionEntry>
       </BuildActionEntries>
@@ -28,36 +28,7 @@
       selectedLauncherIdentifier = "Xcode.DebuggerFoundation.Launcher.LLDB"
       shouldUseLaunchSchemeArgsEnv = "YES">
       <Testables>
-         <TestableReference
-            skipped = "NO">
-            <BuildableReference
-               BuildableIdentifier = "primary"
-               BlueprintIdentifier = "98206F5B1D8E7BD900130AD4"
-               BuildableName = "C++Tests.xctest"
-               BlueprintName = "C++Tests"
-               ReferencedContainer = "container:C++.xcodeproj">
-            </BuildableReference>
-         </TestableReference>
-         <TestableReference
-            skipped = "NO">
-            <BuildableReference
-               BuildableIdentifier = "primary"
-               BlueprintIdentifier = "98206F661D8E7BD900130AD4"
-               BuildableName = "C++UITests.xctest"
-               BlueprintName = "C++UITests"
-               ReferencedContainer = "container:C++.xcodeproj">
-            </BuildableReference>
-         </TestableReference>
       </Testables>
-      <MacroExpansion>
-         <BuildableReference
-            BuildableIdentifier = "primary"
-            BlueprintIdentifier = "98206F421D8E7BD900130AD4"
-            BuildableName = "C++.app"
-            BlueprintName = "C++"
-            ReferencedContainer = "container:C++.xcodeproj">
-         </BuildableReference>
-      </MacroExpansion>
       <AdditionalOptions>
       </AdditionalOptions>
    </TestAction>
@@ -71,16 +42,15 @@
       debugDocumentVersioning = "YES"
       debugServiceExtension = "internal"
       allowLocationSimulation = "YES">
-      <BuildableProductRunnable
-         runnableDebuggingMode = "0">
+      <MacroExpansion>
          <BuildableReference
             BuildableIdentifier = "primary"
-            BlueprintIdentifier = "98206F421D8E7BD900130AD4"
-            BuildableName = "C++.app"
-            BlueprintName = "C++"
-            ReferencedContainer = "container:C++.xcodeproj">
+            BlueprintIdentifier = "983DE0BA1D923BEE0005888D"
+            BuildableName = "libStaticLiabrary.a"
+            BlueprintName = "StaticLiabrary"
+            ReferencedContainer = "container:StaticLiabrary.xcodeproj">
          </BuildableReference>
-      </BuildableProductRunnable>
+      </MacroExpansion>
       <AdditionalOptions>
       </AdditionalOptions>
    </LaunchAction>
@@ -90,16 +60,15 @@
       savedToolIdentifier = ""
       useCustomWorkingDirectory = "NO"
       debugDocumentVersioning = "YES">
-      <BuildableProductRunnable
-         runnableDebuggingMode = "0">
+      <MacroExpansion>
          <BuildableReference
             BuildableIdentifier = "primary"
-            BlueprintIdentifier = "98206F421D8E7BD900130AD4"
-            BuildableName = "C++.app"
-            BlueprintName = "C++"
-            ReferencedContainer = "container:C++.xcodeproj">
+            BlueprintIdentifier = "983DE0BA1D923BEE0005888D"
+            BuildableName = "libStaticLiabrary.a"
+            BlueprintName = "StaticLiabrary"
+            ReferencedContainer = "container:StaticLiabrary.xcodeproj">
          </BuildableReference>
-      </BuildableProductRunnable>
+      </MacroExpansion>
    </ProfileAction>
    <AnalyzeAction
       buildConfiguration = "Debug">

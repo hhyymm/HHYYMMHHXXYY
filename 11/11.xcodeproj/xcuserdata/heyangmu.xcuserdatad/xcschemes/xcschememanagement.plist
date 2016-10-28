@@ -4,45 +4,25 @@
 <dict>
 	<key>SchemeUserState</key>
 	<dict>
-		<key>C++.xcscheme</key>
+		<key>11.xcscheme</key>
 		<dict>
 			<key>orderHint</key>
 			<integer>0</integer>
 		</dict>
-		<key>CFile.xcscheme</key>
-		<dict>
-			<key>orderHint</key>
-			<integer>1</integer>
-		</dict>
 	</dict>
 	<key>SuppressBuildableAutocreation</key>
 	<dict>
-		<key>98206F421D8E7BD900130AD4</key>
+		<key>987DD4301D94BDFD00D71919</key>
 		<dict>
 			<key>primary</key>
 			<true/>
 		</dict>
-		<key>98206F5B1D8E7BD900130AD4</key>
+		<key>987DD4491D94BDFE00D71919</key>
 		<dict>
 			<key>primary</key>
 			<true/>
 		</dict>
-		<key>98206F661D8E7BD900130AD4</key>
-		<dict>
-			<key>primary</key>
-			<true/>
-		</dict>
-		<key>98206F7C1D8E7C2000130AD4</key>
-		<dict>
-			<key>primary</key>
-			<true/>
-		</dict>
-		<key>98206F911D8E7C2000130AD4</key>
-		<dict>
-			<key>primary</key>
-			<true/>
-		</dict>
-		<key>98206F9C1D8E7C2000130AD4</key>
+		<key>987DD4541D94BDFE00D71919</key>
 		<dict>
 			<key>primary</key>
 			<true/>
